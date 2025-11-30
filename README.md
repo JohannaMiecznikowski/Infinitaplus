@@ -1,0 +1,2 @@
+This repository contains Python scripts that were written by Johanna Miecznikowski to process transcripts of the TIGR corpus of spoken Italian.
+The TIGR corpus was built at USI Università della Svizzera italiana from 2020 to 2025 within the research project "The categorization of information sources in face-to-face interaction: a study based on the TIGR-corpus of spoken Italian" (Swiss National Science Foundation grant no. 192771, principal investigator: Johanna Miecznikowski, collaborators: Elena Battaglia, Christian Geddo). 
